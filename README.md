@@ -1,2 +1,1 @@
-
-![Skills](https://github.com/user-attachments/assets/f74b943f-b2ca-4765-80c7-302c2a5cb9ec)
+![Skills](https://github.com/user-attachments/assets/e2e34635-f2fa-48d5-9465-2bc0b7e26875)
