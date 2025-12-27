@@ -10,6 +10,7 @@ Hi, I'm
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-000?logo=databricks)
 ![Go](https://img.shields.io/badge/Go-000?logo=go)
+![Rust](https://img.shields.io/badge/Rust-000?logo=rust)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
