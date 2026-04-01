@@ -7,13 +7,17 @@ Hi, I'm
 
 ## Tech Stack
 ### Languages
+#### Proficient
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-000?logo=databricks)
+
+#### Working Knowledge
 ![Go](https://img.shields.io/badge/Go-000?logo=go)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-000?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?logo=css)
